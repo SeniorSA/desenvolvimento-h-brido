@@ -1,3 +1,1 @@
-# Desenvolvimento mobile híbrido
-
-![Logo do projeto](senior-hybrid-project-cover.png)
+![Capa](senior-hybrid-project-cover.png)
