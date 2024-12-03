@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 166 202"
+   id="svg7"
+   sodipodi:docname="flutter_logo.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="3.7871287"
+     inkscape:cx="82.912418"
+     inkscape:cy="101"
+     inkscape:window-width="1920"
+     inkscape:window-height="1000"
+     inkscape:window-x="-11"
+     inkscape:window-y="35"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="triangleGradient">
+      <stop
+         offset="0"
+         stop-color="#000000"
+         stop-opacity=".55"
+         id="stop1"
+         style="stop-color:#c5c5c5;stop-opacity:0.37784091;" />
+      <stop
+         offset="1"
+         stop-color="#616161"
+         stop-opacity=".01"
+         id="stop2"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       id="rectangleGradient"
+       x1="0%"
+       x2="0%"
+       y1="0%"
+       y2="100%">
+      <stop
+         offset="20%"
+         stop-color="#000000"
+         stop-opacity=".15"
+         id="stop3" />
+      <stop
+         offset="85%"
+         stop-color="#616161"
+         stop-opacity=".01"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <path
+     fill="#42A5F5"
+     fill-opacity=".8"
+     d="M37.7 128.9 9.8 101 100.4 10.4 156.2 10.4"
+     id="path4"
+     style="fill:#ffffff" />
+  <path
+     fill="#42A5F5"
+     fill-opacity=".8"
+     d="M156.2 94 100.4 94 79.5 114.9 107.4 142.8"
+     id="path5"
+     style="fill:#ffffff" />
+  <path
+     fill="#0D47A1"
+     d="M79.5 170.7 100.4 191.6 156.2 191.6 156.2 191.6 107.4 142.8"
+     id="path6"
+     style="fill:#ffffff" />
+  <g
+     transform="matrix(0.7071, -0.7071, 0.7071, 0.7071, -77.667, 98.057)"
+     id="g7"
+     style="fill:#ffffff">
+    <rect
+       width="39.4"
+       height="39.4"
+       x="59.8"
+       y="123.1"
+       fill="#42A5F5"
+       id="rect6"
+       style="fill:#ffffff" />
+    <rect
+       width="39.4"
+       height="5.5"
+       x="59.8"
+       y="162.5"
+       fill="url(#rectangleGradient)"
+       id="rect7"
+       style="fill:#ffffff" />
+  </g>
+  <path
+     d="M79.5 170.7 120.9 156.4 107.4 142.8"
+     fill="url(#triangleGradient)"
+     id="path7" />
+</svg>
